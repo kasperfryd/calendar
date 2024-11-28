@@ -1,0 +1,40 @@
+.calendarHatchStyle {
+    width: 64px;
+    height: 64px;
+    border: dotted 2px white;
+    background-color: rgba(24,24,24,0.5);
+    margin: 16px;
+    text-align: center;
+    font-size: 1.9rem;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+
+    &:hover {
+        background-color: rgba(120, 40, 7, 0.8);
+        color: rgb(240,240,240);
+        font-size: 2.4rem;
+    }
+}
+
+.open {
+    @extend .calendarHatchStyle;
+    background-color: rgb(71, 19, 19);
+    color: black;
+     &:hover {
+        background-color: rgb(220,220,220);
+
+     }
+}
+
+.available{
+    border-color: rgb(255, 255, 255);
+    border-style: dashed;
+
+    &:hover {
+        background-color: rga(230,230,230,0.5);
+    }
+}

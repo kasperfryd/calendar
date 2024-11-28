@@ -1,0 +1,17 @@
+.calendarStyle {
+    margin: auto;
+    width: 600px;
+    background-image: url(/src/assets/calendarBG.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: grid; 
+    grid-template-columns: repeat(5, 1fr);
+    background-position-y:-64px;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    height: 70vh;
+    border-radius: 16px;
+    border: solid 4px white;
+}
