@@ -3,7 +3,7 @@ export const checkDate = (_day) => {
     let day = date.getDate();
     let month = date.getMonth();
     console.log(month)
-    if (month === 10){
+    if (month === 11){
         if (day >= _day){
             return true
         }
