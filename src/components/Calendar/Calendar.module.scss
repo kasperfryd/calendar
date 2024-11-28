@@ -13,4 +13,8 @@
     height: 70vh;
     border-radius: 16px;
     border: solid 4px white;
+
+    @media screen and (max-width: 600px) {
+        width: auto;
+    }
 }
