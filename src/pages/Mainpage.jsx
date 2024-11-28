@@ -37,14 +37,14 @@ export const Mainpage = () => {
   }, []);
 
   useEffect(() => {
-    localStorage.setItem("calendar", JSON.stringify(openedHatches));
+    localStorage.setItem("calendar", JSON.stringify(openedHatches ? openedHatches : []));
   }, [openedHatches]);
 
   return (
     <>
       <h1>Glædelig Josefineste Jul</h1>
       <Calendar>
-        {calendarScheme.map((item) => {
+        {calendarScheme?.map((item) => {
           return (
             <CalendarHatch
               key={item.day}
@@ -54,9 +54,9 @@ export const Mainpage = () => {
               day={item.day}
               icon={item.icon}
               isOpen={
-                openedHatches.findIndex((element) => {
+               openedHatches ? openedHatches.findIndex((element) => {
                   return element == item.day;
-                }) !== -1
+                }) !== -1 : false
               }
               isAvailable={checkDate(item.day)}
             />
