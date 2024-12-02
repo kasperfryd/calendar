@@ -14,14 +14,15 @@ export const calendarScheme = [
   {
     day: 3,
     icon: "🎅",
-    message: "Hygge og...",
+    message: "Tredje december og julehyggen begynder rigtig at brede sig. Det gør kulden tilgengæld også. Heldigvis har jeg dine beskeder at varme mig på. I dag skal du have et sjovt lille klip der highlighter vores mærkelige spisevaner. Der i grunden syltetøj i meget... Hygge og...",
+    link: "https://www.reddit.com/r/funny/comments/1h531uv/scandinavian_cuisine_is_peak/"
   },
   {
     day: 4,
     icon: "👪",
-    message: "Hygge og varme...",
+    message: "Nu er det fjerde december og julen nærmer sig med hastige skridt. Du er den bedste jeg kender til jul (og helt sikkert den bedste til at få mig i julestemning!). Jeg syntes altid at det er beundringsværdigt når folk er gode til noget de brænder for. Også selvom det ikke er noget så mange lige lægger mærke til... Hygge og varme...",
+    link: " https://www.reddit.com/r/interestingasfuck/comments/1h4uplx/have_you_ever_seen_the_window_washing_world/"
   },
-
   {
     day: 8,
     icon: "❄️",
