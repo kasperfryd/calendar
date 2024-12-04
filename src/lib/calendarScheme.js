@@ -79,7 +79,7 @@ export const calendarScheme = [
   {
     day: 5,
     icon: "💝",
-    message: "Hygge og varme i...",
+    message: "Den femte december er ovre os og julefreden spreder sig overalt i landet. Jeg hører du havde besøg i går og gjorde en vis persons dag til den bedste indtil videre, denne jul. Fortsætter du med at sprede så meget juleglæde venter der med sikkerhed en stor gave under dit juletræ i år.. Hygge og varme i...",
   },
   {
     day: 14,
