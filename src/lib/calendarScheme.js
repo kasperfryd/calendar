@@ -31,7 +31,8 @@ export const calendarScheme = [
   {
     day: 6,
     icon: "🍬",
-    message:"Hygge og varme i juletid...",
+    message:"Glædelig 6. december. Nu er det snart anden søndag i advent. De kloge hovedet siger at advent betyder Herrens Komme. Jeg er sikker på at du nok skal få spredt god jule stemning hvor end du kommer. Dagens klip minder mig lidt om når jeg er sammen med dig.... Hygge og varme i juletid...",
+    link: "https://www.reddit.com/r/aww/comments/1h7rcut/what_in_the_world_are_you/"
   },
   {
     day: 10,
