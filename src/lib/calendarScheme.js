@@ -42,7 +42,7 @@ export const calendarScheme = [
   {
     day: 7,
     icon: "🔔",
-    message: "Hygge og varme i juletid er...",
+    message: "7 december og nu er er præcis tre uger igen. I dag vil jeg mene er en overordentlig god dag at forkæle sig selv på. Så det skal du gøre! Køb noget du gerne vil have, spis en hel æske Ferrero Roche eller put dig under et tæppe med en rigtig god julefilm. Man skal nyde at man lever og det skal man ekstra meget i juletiden... Hygge og varme i juletid er...",
   },
 
   {
