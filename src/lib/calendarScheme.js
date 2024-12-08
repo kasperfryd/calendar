@@ -26,7 +26,8 @@ export const calendarScheme = [
   {
     day: 8,
     icon: "❄️",
-    message: "Hygge og varme i juletid er mere...",
+    message: "Anden advent. Og med til advent hører adventsgaver. Julemanden har hørt om et sted så julet og magisk at man næsten skal opleve det. Derfor får du i dag en billet til denne oplevelse. Glædelig anden advent Josefine... Hygge og varme i juletid er mere...",
+    link: "https://aalborgzoo.dk/jul-i-zoo"
   },
   {
     day: 6,
