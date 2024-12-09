@@ -38,7 +38,7 @@ export const calendarScheme = [
   {
     day: 10,
     icon: "🎁",
-    message: "Hygge og varme i juletid er mere end bare...",
+    message: "Glædelig 10. december. Der var engang en klog person der sagde: Juletid er tiden hvor man har tid. Håber du får massere af tid i dag.... Hygge og varme i juletid er mere end bare...",
   },
   {
     day: 7,
@@ -49,8 +49,9 @@ export const calendarScheme = [
   {
     day: 9,
     icon: "☃️",
-    message: "Hygge og varme i juletid er mere end...",
-  },
+    message: "Mandag er bare bedre i julen. De mange smukke lys på vej på arbejde der lyser vejen op og mindre sure miner end normalt. Glædelig 9. december... Hygge og varme i juletid er mere end...",
+    link: "https://www.reddit.com/r/funny/comments/1h9qzc4/clip_from_disneylands_10th_anniversary_show_1965/"
+  }, 
   {
     day: 15,
     icon: "🕯️",
