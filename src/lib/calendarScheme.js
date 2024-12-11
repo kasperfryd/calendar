@@ -8,9 +8,9 @@ export const calendarScheme = [
   {
     day: 12,
     icon: "🎄",
-    message: "Hygge og varme i juletid er mere end bare held. Det...",
+    message: "12 december allerede! Nu er vi næsten præcis halvvejs til juleaften. Som tiden flyver afsted. Jeg håber du har fået set en masse julefilm allerede og ellers er der stadig tid. Man SKAL næsten se både Alene Hjemme og Polar Expressen før det rigtig er jul. Og når man taler om jule-tog...Hygge og varme i juletid er mere end bare held. Det...",
+    link: "https://www.reddit.com/r/interestingasfuck/comments/1hbk51g/a_canadian_pacific_holiday_train_is_in_existence/"
   },
-
   {
     day: 3,
     icon: "🎅",
