@@ -71,9 +71,9 @@ export const calendarScheme = [
   {
     day: 11,
     icon: "✨",
-    message:"Hygge og varme i juletid er mere end bare held...",
+    message:"Glædelig 11. December. Jeg har hørt fra min hjælper at du holder af de små firbenede pelsklædte dyr i mennesker kalder katte. Jeg har derfor fundet en interessant lille overraskelse til dig i dag som jeg håber du kan hygge dig med.. Det gjorde alle jule nisserne i hvertfald... Hygge og varme i juletid er mere end bare held...",
+    link: " https://www.youtube.com/watch?v=G_O535JTYno"
   },
-
   {
     day: 13,
     icon: "🥳",
